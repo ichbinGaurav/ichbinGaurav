@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/c:\users\gaurav\desktop\web\project\scramble game\index.html" target="blank">https://www.linkedin.com/in/gaurav-chauhan-144688210 </a>
+<a href="https://www.linkedin.com/in/gaurav-chauhan-144688210/" target="blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
